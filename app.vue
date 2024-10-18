@@ -1,7 +1,7 @@
 <template>
   <div class="eco-design-app">
     <header>
-      <h1>Build to Cycle</h1>
+      <h1>Build to Recycle</h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
@@ -13,8 +13,8 @@
     <main>
       <NuxtRouteAnnouncer />
       <section id="about">
-        <h2>About Build to Cycle</h2>
-        <p>Build to Cycle is a design philosophy that focuses on creating technology products that are easy to repair and recycle, promoting sustainability and reducing e-waste.</p>
+        <h2>About Build to Recycle</h2>
+        <p>Build to Recycle is a design philosophy that focuses on creating technology products that are easy to repair and recycle, promoting sustainability and reducing e-waste.</p>
       </section>
       <section id="principles">
         <h2>Key Principles</h2>
@@ -35,7 +35,7 @@
       </section>
     </main>
     <footer>
-      <p>© 2023 Build to Cycle Initiative</p>
+      <p>© 2023 Build to Recycle Initiative</p>
     </footer>
   </div>
 </template>
